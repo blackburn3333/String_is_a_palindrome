@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DSA-Task1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DSA_Task1_jar</output-path>
+    <root id="archive" name="DSA-Task1.jar">
+      <element id="module-output" name="DSA-Task1" />
+    </root>
+  </artifact>
+</component>
